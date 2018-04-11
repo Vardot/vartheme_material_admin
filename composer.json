@@ -1,0 +1,31 @@
+{
+  "name": "drupal/vartheme_material_admin",
+  "description": "Varbase (Experimental) Material Design Admin Theme. Based on the [Material Admin] Theme.",
+  "type": "drupal-theme",
+  "homepage": "https://www.drupal.org/project/vartheme_material_admin",
+  "license": "GPL-2.0-or-later",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Vardot",
+      "homepage": "https://www.drupal.org/vardot",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "http://drupal.org/project/issues/vartheme_material_admin",
+    "source": "http://cgit.drupalcode.org/vartheme_material_admin"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packages.drupal.org/8"
+    }
+  ],
+  "require": { },
+  "extra": {
+    "branch-alias": {
+      "dev-8.x-4.x": "8.4.x-dev"
+    }
+  }
+}
