@@ -2,8 +2,7 @@ name: Vartheme Material Admin
 type: theme
 description: 'Varbase Material Design Admin Theme'
 package: Varbase (Experimental)
-core: 8.x
-version: 8.x-6.x-dev
+core_version_requirement: ^8 || ^9
 
 base theme: material_admin
 
